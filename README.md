@@ -4,15 +4,14 @@ The initial packet consists of 42 main formulas
 
 You can practice or test yourself
 
----
+===
 
 "data" file contains equations in format as follows:
 
-*first part* = *second part*
-
+\*first part\* = \*second part\*
 (any spaces are ignored)
 
----
+===
 
 Example of data file:
 
