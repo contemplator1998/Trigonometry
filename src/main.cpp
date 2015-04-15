@@ -115,7 +115,7 @@ void test() {
 
 int main() {
     srand(time(0));
-    cout << "Hello, Contemplator!" << endl;
+    cout << "Welcome!" << endl;
     readData();
     while(true) {
 
