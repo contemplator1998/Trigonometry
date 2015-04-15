@@ -2,7 +2,7 @@
 
 This is a simple trainer in trigonometry.
 
-The initial packet consists of 42 main formulas.
+The initial packet consists of 42 basic formulas.
 
 You can practice or test yourself.
 
